@@ -1,6 +1,5 @@
 '''
 Explore the baseball data
-100xp
 Because the mean and median are so far apart, you decide to complain to the MLB.
 They find the error and send the corrected data over to you. It's again available
 as a 2D Numpy array np_baseball, with three columns.

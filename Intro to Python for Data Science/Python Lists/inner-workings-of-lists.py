@@ -1,6 +1,6 @@
 '''
 Inner workings of lists
-100xp
+
 At the end of the video, Filip explained how Python lists work behind the scenes. In this exercise
 you'll get some hands-on experience with this.
 

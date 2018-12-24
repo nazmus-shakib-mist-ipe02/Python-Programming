@@ -1,6 +1,5 @@
 '''
 Baseball player's BMI
-100xp
 The MLB also offers to let you analyze their weight data. Again, both are available as regular
 Python lists: height and weight. height is in inches and weight is in pounds.
 

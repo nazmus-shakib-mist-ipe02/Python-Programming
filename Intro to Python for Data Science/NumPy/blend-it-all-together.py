@@ -1,6 +1,5 @@
 '''
 Blend it all together
-100xp
 In the last few exercises you've learned everything there is to know about heights
 and weights of baseball players. Now it's time to dive into another sport: soccer.
 
