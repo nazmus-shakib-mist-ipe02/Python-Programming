@@ -19,7 +19,8 @@ Save the resulting numpy array as bmi.
 
 # Import numpy
 import numpy as np
-
+height = [180, 215, 210, 210, 188, 176, 209, 200]
+weight=np.random.randint(40,100,size=8)
 # Calculate the BMI: bmi
 np_height_m = np.array(height) * 0.0254
 np_weight_kg = np.array(weight) * 0.453592

@@ -34,7 +34,8 @@ Instructions
 
 # Import numpy package
 import numpy as np
-
+height = [180, 215, 210, 210, 188, 176, 209, 200]
+baseball =np.random.randint(40,100,size=500).reshape(250,2)
 # Create np_baseball (2 cols)
 np_baseball = np.array(baseball)
 

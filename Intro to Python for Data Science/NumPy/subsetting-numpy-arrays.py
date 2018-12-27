@@ -1,3 +1,4 @@
+
 '''
 Subsetting NumPy Arrays
 100xp
@@ -24,12 +25,15 @@ index 110
 # Import numpy
 import numpy as np
 
+height = [1.73, 1.68, 1.71, 1.89, 1.79]
+weight = [65.4, 59.2, 63.6, 88.4, 68.7]
+
 # Store weight and height lists as numpy arrays
 np_weight = np.array(weight)
 np_height = np.array(height)
 
-# Print out the weight at index 50
-print(weight[50])
-
-# Print out sub-array of np_height: index 100 up to and including index 110
-print(np_height[100:111])
+# Print out the weight at index 4
+print(weight[4])
+print(np_weight.index(1.68)
+# Print out sub-array of np_height: index 1 up to and including index 6
+print(np_height[1:4])

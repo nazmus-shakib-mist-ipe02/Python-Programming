@@ -1,6 +1,6 @@
 '''
 Your First NumPy Array
-100xp
+
 In this chapter, we're going to dive into the world of baseball. Along the way, you'll get
 comfortable with the basics of numpy, a powerful package to do data science.
 

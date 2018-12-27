@@ -21,6 +21,9 @@ Print out the shape attribute of np_baseball.
 # Import numpy package
 import numpy as np
 
+height = [180, 215, 210, 210, 188, 176, 209, 200]
+baseball=np.random.randint(40,100,size=8)
+
 # Create a 2D numpy array from baseball: np_baseball
 np_baseball = np.array(baseball)
 

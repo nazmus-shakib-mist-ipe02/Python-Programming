@@ -16,6 +16,8 @@ Store the new values in a new array, np_height_m.
 -Print out np_height_m and check if the output makes sense.
 '''
 # height is available as a regular list
+# Create list baseball
+height = [180, 215, 210, 210, 188, 176, 209, 200]
 
 # Import numpy
 import numpy as np
